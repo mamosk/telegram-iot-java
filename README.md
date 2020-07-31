@@ -1,4 +1,4 @@
-# telegram-iot-java project
+# Telegram IoT
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
@@ -28,3 +28,11 @@ Or, if you don't have GraalVM installed, you can run the native executable build
 You can then execute your native executable with: `./target/telegram-iot-java-1.0.0-SNAPSHOT-runner`
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/building-native-image.
+
+## Production environment
+
+This app is deployed on Heroku.
+
+---
+
+Made with ❤ by [Fabio Michelini](https://bit.ly/mich-cv)
